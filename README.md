@@ -20,7 +20,7 @@ pip install pypdf2
 2. Run the script:
 
 ```sh
-python merge_pdfs.py
+python pdf_merger.py
 ```
 
 3. Enter the folder path containing the PDFs.
